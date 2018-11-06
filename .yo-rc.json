@@ -1,0 +1,32 @@
+{
+  "generator-jhipster": {
+    "promptValues": {
+      "packageName": "org.test.oate"
+    },
+    "jhipsterVersion": "4.14.4",
+    "baseName": "OauthTest",
+    "packageName": "org.test.oate",
+    "packageFolder": "org/test/oate",
+    "serverPort": "8080",
+    "authenticationType": "jwt",
+    "cacheProvider": "no",
+    "websocket": false,
+    "databaseType": "sql",
+    "devDatabaseType": "h2Memory",
+    "prodDatabaseType": "mysql",
+    "searchEngine": false,
+    "messageBroker": false,
+    "serviceDiscoveryType": false,
+    "buildTool": "gradle",
+    "enableSocialSignIn": true,
+    "enableSwaggerCodegen": false,
+    "jwtSecretKey": "dc8c89f27e0f0940c5afc1a590ec6cd97c48e46b",
+    "clientFramework": "angularX",
+    "useSass": false,
+    "clientPackageManager": "yarn",
+    "applicationType": "monolith",
+    "testFrameworks": [],
+    "jhiPrefix": "jhi",
+    "enableTranslation": false
+  }
+}
